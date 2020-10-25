@@ -1,0 +1,10 @@
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\bin\Debug\home_work_wf_message_box.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\bin\Debug\home_work_wf_message_box.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\bin\Debug\home_work_wf_message_box.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.Form1.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_message_box\home_work_wf_message_box\obj\Debug\home_work_wf_message_box.pdb
